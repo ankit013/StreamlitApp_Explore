@@ -14,7 +14,7 @@ You may also want to check out this four-part video recorded at our PyData talk 
 2.Install Streamlit using PIP:
   * pip install streamlit
 
-### Basic steps to explore the data
+## Basic steps to explore the data
 * Read data 
 * Show the data
 * Show the table with n number of records
@@ -23,5 +23,5 @@ You may also want to check out this four-part video recorded at our PyData talk 
 * Show the data types
 * Plot the data using streamlit inbuild methods
 
-### Streamlit Online Docs
+## Streamlit Online Docs
 https://docs.streamlit.io/en/stable/getting_started.html
