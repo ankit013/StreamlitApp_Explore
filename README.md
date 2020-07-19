@@ -12,7 +12,7 @@ You may also want to check out this four-part video recorded at our PyData talk 
 
 1. Make sure that you have Python 3.6 or greater installed.
 2. Install Streamlit using PIP:
-  * pip install streamlit
+   * pip install streamlit
 
 ## Basic steps to explore the data
 * Read data 
